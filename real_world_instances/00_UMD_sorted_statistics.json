@@ -1,0 +1,432 @@
+{
+    "Average": {
+        "Total Nurses": 16.825,
+        "Total Patients": 61.85,
+        "Mean Workload": 2.7250365672345644,
+        "Std Deviation of Workload": 1.4368910386457696,
+        "Mean Length of Stay": 4.058974075479265,
+        "Std Deviation of Length of Stay": 1.8673117528978647,
+        "Total Length of Stay": 250.125,
+        "Occupancy Rate": 0.6130514705882353
+    },
+    "Maximum": {
+        "Total Nurses": 23,
+        "Total Patients": 76,
+        "Mean Workload": 3.0961538461538463,
+        "Std Deviation of Workload": 1.5671648827532847,
+        "Mean Length of Stay": 4.810344827586207,
+        "Std Deviation of Length of Stay": 2.7967376837195714,
+        "Total Length of Stay": 294,
+        "Occupancy Rate": 0.7205882352941176
+    },
+    "Minimum": {
+        "Total Nurses": 13,
+        "Total Patients": 45,
+        "Mean Workload": 2.159090909090909,
+        "Std Deviation of Workload": 1.2987482388637943,
+        "Mean Length of Stay": 3.559322033898305,
+        "Std Deviation of Length of Stay": 1.2021108195733083,
+        "Total Length of Stay": 186,
+        "Occupancy Rate": 0.45588235294117646
+    },
+    "Case_Study_Data\\UMD_instance_13": {
+        "Total Nurses": 17,
+        "Total Patients": 76,
+        "Mean Workload": 2.760204081632653,
+        "Std Deviation of Workload": 1.4137232018575752,
+        "Mean Length of Stay": 3.8684210526315788,
+        "Std Deviation of Length of Stay": 1.6839802474150967,
+        "Total Length of Stay": 294,
+        "Occupancy Rate": 0.7205882352941176
+    },
+    "Case_Study_Data\\UMD_instance_11": {
+        "Total Nurses": 17,
+        "Total Patients": 65,
+        "Mean Workload": 2.231578947368421,
+        "Std Deviation of Workload": 1.406354675240323,
+        "Mean Length of Stay": 4.384615384615385,
+        "Std Deviation of Length of Stay": 2.2548025668303233,
+        "Total Length of Stay": 285,
+        "Occupancy Rate": 0.6985294117647058
+    },
+    "Case_Study_Data\\UMD_instance_01": {
+        "Total Nurses": 17,
+        "Total Patients": 59,
+        "Mean Workload": 2.5268817204301075,
+        "Std Deviation of Workload": 1.4674220664380977,
+        "Mean Length of Stay": 4.728813559322034,
+        "Std Deviation of Length of Stay": 2.7967376837195714,
+        "Total Length of Stay": 279,
+        "Occupancy Rate": 0.6838235294117647
+    },
+    "Case_Study_Data\\UMD_instance_04": {
+        "Total Nurses": 16,
+        "Total Patients": 58,
+        "Mean Workload": 2.639784946236559,
+        "Std Deviation of Workload": 1.4196794297416648,
+        "Mean Length of Stay": 4.810344827586207,
+        "Std Deviation of Length of Stay": 2.312869384831008,
+        "Total Length of Stay": 279,
+        "Occupancy Rate": 0.6838235294117647
+    },
+    "Case_Study_Data\\UMD_instance_14": {
+        "Total Nurses": 17,
+        "Total Patients": 75,
+        "Mean Workload": 2.903225806451613,
+        "Std Deviation of Workload": 1.5143602065632598,
+        "Mean Length of Stay": 3.72,
+        "Std Deviation of Length of Stay": 1.4663799883625903,
+        "Total Length of Stay": 279,
+        "Occupancy Rate": 0.6838235294117647
+    },
+    "Case_Study_Data\\UMD_instance_36": {
+        "Total Nurses": 20,
+        "Total Patients": 71,
+        "Mean Workload": 2.8967391304347827,
+        "Std Deviation of Workload": 1.369132874395345,
+        "Mean Length of Stay": 3.887323943661972,
+        "Std Deviation of Length of Stay": 1.7117183995259424,
+        "Total Length of Stay": 276,
+        "Occupancy Rate": 0.6764705882352942
+    },
+    "Case_Study_Data\\UMD_instance_38": {
+        "Total Nurses": 19,
+        "Total Patients": 68,
+        "Mean Workload": 2.7989130434782608,
+        "Std Deviation of Workload": 1.4249144976912045,
+        "Mean Length of Stay": 4.0588235294117645,
+        "Std Deviation of Length of Stay": 1.9916418857889961,
+        "Total Length of Stay": 276,
+        "Occupancy Rate": 0.6764705882352942
+    },
+    "Case_Study_Data\\UMD_instance_35": {
+        "Total Nurses": 18,
+        "Total Patients": 68,
+        "Mean Workload": 2.5274725274725274,
+        "Std Deviation of Workload": 1.3241543478047229,
+        "Mean Length of Stay": 4.014705882352941,
+        "Std Deviation of Length of Stay": 2.047879478867075,
+        "Total Length of Stay": 273,
+        "Occupancy Rate": 0.6691176470588235
+    },
+    "Case_Study_Data\\UMD_instance_09": {
+        "Total Nurses": 18,
+        "Total Patients": 67,
+        "Mean Workload": 2.8555555555555556,
+        "Std Deviation of Workload": 1.5064932910579067,
+        "Mean Length of Stay": 4.029850746268656,
+        "Std Deviation of Length of Stay": 1.4351660156711186,
+        "Total Length of Stay": 270,
+        "Occupancy Rate": 0.6617647058823529
+    },
+    "Case_Study_Data\\UMD_instance_24": {
+        "Total Nurses": 16,
+        "Total Patients": 71,
+        "Mean Workload": 2.8222222222222224,
+        "Std Deviation of Workload": 1.406908555018761,
+        "Mean Length of Stay": 3.8028169014084505,
+        "Std Deviation of Length of Stay": 1.6001760466528956,
+        "Total Length of Stay": 270,
+        "Occupancy Rate": 0.6617647058823529
+    },
+    "Case_Study_Data\\UMD_instance_05": {
+        "Total Nurses": 16,
+        "Total Patients": 62,
+        "Mean Workload": 2.6741573033707864,
+        "Std Deviation of Workload": 1.524009585945477,
+        "Mean Length of Stay": 4.306451612903226,
+        "Std Deviation of Length of Stay": 2.280269682622904,
+        "Total Length of Stay": 267,
+        "Occupancy Rate": 0.6544117647058824
+    },
+    "Case_Study_Data\\UMD_instance_08": {
+        "Total Nurses": 17,
+        "Total Patients": 64,
+        "Mean Workload": 2.764044943820225,
+        "Std Deviation of Workload": 1.3861499899285108,
+        "Mean Length of Stay": 4.171875,
+        "Std Deviation of Length of Stay": 2.2435423202732645,
+        "Total Length of Stay": 267,
+        "Occupancy Rate": 0.6544117647058824
+    },
+    "Case_Study_Data\\UMD_instance_32": {
+        "Total Nurses": 16,
+        "Total Patients": 64,
+        "Mean Workload": 2.752808988764045,
+        "Std Deviation of Workload": 1.4362608301935007,
+        "Mean Length of Stay": 4.171875,
+        "Std Deviation of Length of Stay": 2.0436093769882455,
+        "Total Length of Stay": 267,
+        "Occupancy Rate": 0.6544117647058824
+    },
+    "Case_Study_Data\\UMD_instance_02": {
+        "Total Nurses": 17,
+        "Total Patients": 58,
+        "Mean Workload": 2.159090909090909,
+        "Std Deviation of Workload": 1.3680966017384562,
+        "Mean Length of Stay": 4.551724137931035,
+        "Std Deviation of Length of Stay": 2.264697910168025,
+        "Total Length of Stay": 264,
+        "Occupancy Rate": 0.6470588235294118
+    },
+    "Case_Study_Data\\UMD_instance_19": {
+        "Total Nurses": 17,
+        "Total Patients": 65,
+        "Mean Workload": 2.574712643678161,
+        "Std Deviation of Workload": 1.439590371314095,
+        "Mean Length of Stay": 4.015384615384615,
+        "Std Deviation of Length of Stay": 1.6152815901212443,
+        "Total Length of Stay": 261,
+        "Occupancy Rate": 0.6397058823529411
+    },
+    "Case_Study_Data\\UMD_instance_40": {
+        "Total Nurses": 23,
+        "Total Patients": 65,
+        "Mean Workload": 2.82183908045977,
+        "Std Deviation of Workload": 1.519577465408455,
+        "Mean Length of Stay": 4.015384615384615,
+        "Std Deviation of Length of Stay": 1.6152815901212443,
+        "Total Length of Stay": 261,
+        "Occupancy Rate": 0.6397058823529411
+    },
+    "Case_Study_Data\\UMD_instance_15": {
+        "Total Nurses": 18,
+        "Total Patients": 66,
+        "Mean Workload": 2.6744186046511627,
+        "Std Deviation of Workload": 1.421981653800572,
+        "Mean Length of Stay": 3.909090909090909,
+        "Std Deviation of Length of Stay": 1.5760444422401558,
+        "Total Length of Stay": 258,
+        "Occupancy Rate": 0.6323529411764706
+    },
+    "Case_Study_Data\\UMD_instance_39": {
+        "Total Nurses": 22,
+        "Total Patients": 62,
+        "Mean Workload": 2.447674418604651,
+        "Std Deviation of Workload": 1.3519080511473294,
+        "Mean Length of Stay": 4.161290322580645,
+        "Std Deviation of Length of Stay": 2.0581190552245956,
+        "Total Length of Stay": 258,
+        "Occupancy Rate": 0.6323529411764706
+    },
+    "Case_Study_Data\\UMD_instance_03": {
+        "Total Nurses": 18,
+        "Total Patients": 57,
+        "Mean Workload": 2.5764705882352943,
+        "Std Deviation of Workload": 1.344517428118522,
+        "Mean Length of Stay": 4.473684210526316,
+        "Std Deviation of Length of Stay": 2.5432351666296915,
+        "Total Length of Stay": 255,
+        "Occupancy Rate": 0.625
+    },
+    "Case_Study_Data\\UMD_instance_12": {
+        "Total Nurses": 17,
+        "Total Patients": 71,
+        "Mean Workload": 3.0941176470588236,
+        "Std Deviation of Workload": 1.5122656650531259,
+        "Mean Length of Stay": 3.591549295774648,
+        "Std Deviation of Length of Stay": 1.2021108195733083,
+        "Total Length of Stay": 255,
+        "Occupancy Rate": 0.625
+    },
+    "Case_Study_Data\\UMD_instance_18": {
+        "Total Nurses": 18,
+        "Total Patients": 69,
+        "Mean Workload": 3.052941176470588,
+        "Std Deviation of Workload": 1.4194830491051427,
+        "Mean Length of Stay": 3.6956521739130435,
+        "Std Deviation of Length of Stay": 1.6387257228971877,
+        "Total Length of Stay": 255,
+        "Occupancy Rate": 0.625
+    },
+    "Case_Study_Data\\UMD_instance_20": {
+        "Total Nurses": 17,
+        "Total Patients": 68,
+        "Mean Workload": 2.6882352941176473,
+        "Std Deviation of Workload": 1.3289593530505603,
+        "Mean Length of Stay": 3.75,
+        "Std Deviation of Length of Stay": 1.3086965145381029,
+        "Total Length of Stay": 255,
+        "Occupancy Rate": 0.625
+    },
+    "Case_Study_Data\\UMD_instance_07": {
+        "Total Nurses": 17,
+        "Total Patients": 60,
+        "Mean Workload": 2.755952380952381,
+        "Std Deviation of Workload": 1.4864538994949148,
+        "Mean Length of Stay": 4.2,
+        "Std Deviation of Length of Stay": 2.006768208854176,
+        "Total Length of Stay": 252,
+        "Occupancy Rate": 0.6176470588235294
+    },
+    "Case_Study_Data\\UMD_instance_25": {
+        "Total Nurses": 17,
+        "Total Patients": 59,
+        "Mean Workload": 2.6726190476190474,
+        "Std Deviation of Workload": 1.5064612291209478,
+        "Mean Length of Stay": 4.271186440677966,
+        "Std Deviation of Length of Stay": 1.9460881051269039,
+        "Total Length of Stay": 252,
+        "Occupancy Rate": 0.6176470588235294
+    },
+    "Case_Study_Data\\UMD_instance_21": {
+        "Total Nurses": 15,
+        "Total Patients": 64,
+        "Mean Workload": 2.4939759036144578,
+        "Std Deviation of Workload": 1.3061485736261178,
+        "Mean Length of Stay": 3.890625,
+        "Std Deviation of Length of Stay": 1.6630168369562588,
+        "Total Length of Stay": 249,
+        "Occupancy Rate": 0.6102941176470589
+    },
+    "Case_Study_Data\\UMD_instance_22": {
+        "Total Nurses": 16,
+        "Total Patients": 60,
+        "Mean Workload": 2.433734939759036,
+        "Std Deviation of Workload": 1.38557740799989,
+        "Mean Length of Stay": 4.15,
+        "Std Deviation of Length of Stay": 2.349359811826134,
+        "Total Length of Stay": 249,
+        "Occupancy Rate": 0.6102941176470589
+    },
+    "Case_Study_Data\\UMD_instance_26": {
+        "Total Nurses": 15,
+        "Total Patients": 60,
+        "Mean Workload": 2.36144578313253,
+        "Std Deviation of Workload": 1.2987482388637943,
+        "Mean Length of Stay": 4.15,
+        "Std Deviation of Length of Stay": 2.0734397850848914,
+        "Total Length of Stay": 249,
+        "Occupancy Rate": 0.6102941176470589
+    },
+    "Case_Study_Data\\UMD_instance_10": {
+        "Total Nurses": 17,
+        "Total Patients": 66,
+        "Mean Workload": 2.84375,
+        "Std Deviation of Workload": 1.5277182187742748,
+        "Mean Length of Stay": 3.6363636363636362,
+        "Std Deviation of Length of Stay": 1.2358287613066494,
+        "Total Length of Stay": 240,
+        "Occupancy Rate": 0.5882352941176471
+    },
+    "Case_Study_Data\\UMD_instance_27": {
+        "Total Nurses": 16,
+        "Total Patients": 57,
+        "Mean Workload": 2.7375,
+        "Std Deviation of Workload": 1.468698563932747,
+        "Mean Length of Stay": 4.2105263157894735,
+        "Std Deviation of Length of Stay": 2.2578184960049947,
+        "Total Length of Stay": 240,
+        "Occupancy Rate": 0.5882352941176471
+    },
+    "Case_Study_Data\\UMD_instance_17": {
+        "Total Nurses": 16,
+        "Total Patients": 65,
+        "Mean Workload": 3.0961538461538463,
+        "Std Deviation of Workload": 1.4581421947291793,
+        "Mean Length of Stay": 3.6,
+        "Std Deviation of Length of Stay": 1.3205112646244257,
+        "Total Length of Stay": 234,
+        "Occupancy Rate": 0.5735294117647058
+    },
+    "Case_Study_Data\\UMD_instance_31": {
+        "Total Nurses": 14,
+        "Total Patients": 57,
+        "Mean Workload": 2.7467532467532467,
+        "Std Deviation of Workload": 1.4442207945535066,
+        "Mean Length of Stay": 4.052631578947368,
+        "Std Deviation of Length of Stay": 1.9218764326970637,
+        "Total Length of Stay": 231,
+        "Occupancy Rate": 0.5661764705882353
+    },
+    "Case_Study_Data\\UMD_instance_06": {
+        "Total Nurses": 19,
+        "Total Patients": 52,
+        "Mean Workload": 2.5460526315789473,
+        "Std Deviation of Workload": 1.5086453543356675,
+        "Mean Length of Stay": 4.384615384615385,
+        "Std Deviation of Length of Stay": 2.0112804053085886,
+        "Total Length of Stay": 228,
+        "Occupancy Rate": 0.5588235294117647
+    },
+    "Case_Study_Data\\UMD_instance_33": {
+        "Total Nurses": 15,
+        "Total Patients": 58,
+        "Mean Workload": 2.598684210526316,
+        "Std Deviation of Workload": 1.443229768442036,
+        "Mean Length of Stay": 3.9310344827586206,
+        "Std Deviation of Length of Stay": 1.8812283124869134,
+        "Total Length of Stay": 228,
+        "Occupancy Rate": 0.5588235294117647
+    },
+    "Case_Study_Data\\UMD_instance_34": {
+        "Total Nurses": 16,
+        "Total Patients": 55,
+        "Mean Workload": 2.9342105263157894,
+        "Std Deviation of Workload": 1.458798619528684,
+        "Mean Length of Stay": 4.1454545454545455,
+        "Std Deviation of Length of Stay": 2.0404990476930793,
+        "Total Length of Stay": 228,
+        "Occupancy Rate": 0.5588235294117647
+    },
+    "Case_Study_Data\\UMD_instance_30": {
+        "Total Nurses": 14,
+        "Total Patients": 56,
+        "Mean Workload": 3.0684931506849313,
+        "Std Deviation of Workload": 1.4699638008518552,
+        "Mean Length of Stay": 3.9107142857142856,
+        "Std Deviation of Length of Stay": 1.7085537287881363,
+        "Total Length of Stay": 219,
+        "Occupancy Rate": 0.5367647058823529
+    },
+    "Case_Study_Data\\UMD_instance_23": {
+        "Total Nurses": 14,
+        "Total Patients": 59,
+        "Mean Workload": 3.05,
+        "Std Deviation of Workload": 1.4056668455133812,
+        "Mean Length of Stay": 3.559322033898305,
+        "Std Deviation of Length of Stay": 1.3034594082628332,
+        "Total Length of Stay": 210,
+        "Occupancy Rate": 0.5147058823529411
+    },
+    "Case_Study_Data\\UMD_instance_37": {
+        "Total Nurses": 17,
+        "Total Patients": 56,
+        "Mean Workload": 2.95,
+        "Std Deviation of Workload": 1.4901354291212265,
+        "Mean Length of Stay": 3.75,
+        "Std Deviation of Length of Stay": 1.5403659541574115,
+        "Total Length of Stay": 210,
+        "Occupancy Rate": 0.5147058823529411
+    },
+    "Case_Study_Data\\UMD_instance_28": {
+        "Total Nurses": 15,
+        "Total Patients": 50,
+        "Mean Workload": 2.7761194029850746,
+        "Std Deviation of Workload": 1.5000841632768231,
+        "Mean Length of Stay": 4.02,
+        "Std Deviation of Length of Stay": 2.0651629376840157,
+        "Total Length of Stay": 201,
+        "Occupancy Rate": 0.49264705882352944
+    },
+    "Case_Study_Data\\UMD_instance_29": {
+        "Total Nurses": 13,
+        "Total Patients": 45,
+        "Mean Workload": 2.8461538461538463,
+        "Std Deviation of Workload": 1.443840370299838,
+        "Mean Length of Stay": 4.333333333333333,
+        "Std Deviation of Length of Stay": 1.9771421064483223,
+        "Total Length of Stay": 195,
+        "Occupancy Rate": 0.47794117647058826
+    },
+    "Case_Study_Data\\UMD_instance_16": {
+        "Total Nurses": 16,
+        "Total Patients": 46,
+        "Mean Workload": 2.846774193548387,
+        "Std Deviation of Workload": 1.5671648827532847,
+        "Mean Length of Stay": 4.043478260869565,
+        "Std Deviation of Length of Stay": 1.699104623541214,
+        "Total Length of Stay": 186,
+        "Occupancy Rate": 0.45588235294117646
+    }
+}
